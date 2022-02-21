@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841901268176",
+    "project_id": "perdaftaransiswa",
+    "storage_bucket": "perdaftaransiswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841901268176:android:71e5694e5f1fa3ba8952d5",
+        "android_client_info": {
+          "package_name": "com.example.pendaftaransiswabaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841901268176-vg7g9v88tvdr1s47s5lk7f5sj2ai1vm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pendaftaransiswabaru",
+            "certificate_hash": "c14962018be29d0626eeda0820e7da6a94907c7c"
+          }
+        },
+        {
+          "client_id": "841901268176-7mjf1m94jhvqabvlhrfiov8dnpnqrktp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvLTXcatjQ3jNBWEnHtomgTSFr9FE254"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841901268176-7mjf1m94jhvqabvlhrfiov8dnpnqrktp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
